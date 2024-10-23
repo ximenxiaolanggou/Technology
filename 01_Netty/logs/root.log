@@ -1,0 +1,250 @@
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：ㄲ
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：㌴
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：㔶
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：㜸
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：㤰
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：慢
+2024-10-11 17:46:45 Case_01_Bytebuffer_Base.java INFO 字符为：捤
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：49
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：50
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：51
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：52
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：53
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：54
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：55
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：56
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：57
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：48
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：97
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：98
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：99
+2024-10-11 17:47:17 Case_01_Bytebuffer_Base.java INFO 字符为：100
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：1
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：2
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：3
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：4
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：5
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：6
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：7
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：8
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：9
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：0
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：a
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：b
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：c
+2024-10-11 17:47:32 Case_01_Bytebuffer_Base.java INFO 字符为：d
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 字符为：5
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 字符为：6
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 字符为：7
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 字符为：8
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 字符为：9
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 字符为：0
+2024-10-11 17:51:40 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+17:52:18 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+17:52:18 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+17:52:18 Case_01_Bytebuffer_Base.java INFO 字符为：5
+17:52:18 Case_01_Bytebuffer_Base.java INFO 字符为：6
+17:52:18 Case_01_Bytebuffer_Base.java INFO 字符为：7
+17:52:18 Case_01_Bytebuffer_Base.java INFO 字符为：8
+17:52:18 Case_01_Bytebuffer_Base.java INFO 字符为：9
+17:52:18 Case_01_Bytebuffer_Base.java INFO 字符为：0
+17:52:18 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+17:53:00 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+17:53:00 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+17:53:00 Case_01_Bytebuffer_Base.java INFO 字符为：5
+17:53:00 Case_01_Bytebuffer_Base.java INFO 字符为：6
+17:53:00 Case_01_Bytebuffer_Base.java INFO 字符为：7
+17:53:00 Case_01_Bytebuffer_Base.java INFO 字符为：8
+17:53:00 Case_01_Bytebuffer_Base.java INFO 字符为：9
+17:53:00 Case_01_Bytebuffer_Base.java INFO 字符为：0
+17:53:00 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+17:53:17 INFO 读取的长度为：10
+17:53:17 INFO 读取的长度为：4
+17:53:17 INFO 字符为：5
+17:53:17 INFO 字符为：6
+17:53:17 INFO 字符为：7
+17:53:17 INFO 字符为：8
+17:53:17 INFO 字符为：9
+17:53:17 INFO 字符为：0
+17:53:17 INFO 读取的长度为：-1
+读取的长度为：10
+读取的长度为：4
+字符为：5
+字符为：6
+字符为：7
+字符为：8
+字符为：9
+字符为：0
+读取的长度为：-1
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 字符为：5
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 字符为：6
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 字符为：7
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 字符为：8
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 字符为：9
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 字符为：0
+2024-10-11 17:54:16 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 字符为：5
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 字符为：6
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 字符为：7
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 字符为：8
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 字符为：9
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 字符为：0
+ 17:54:36 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：1
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：2
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：3
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：4
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：5
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：6
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：7
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：8
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：9
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：0
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：a
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：b
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：c
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 字符为：d
+ 17:55:57 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 读取的长度为：10
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：1
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：2
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：3
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：4
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：5
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：6
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：7
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：8
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：9
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：0
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 读取的长度为：4
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：a
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：b
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：c
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 字符为：d
+ 18:08:24 Case_01_Bytebuffer_Base.java INFO 读取的长度为：-1
+ 11:16:53 Case_02_Bytebuffer_API.java INFO 读出数据：127
+ 11:16:53 Case_02_Bytebuffer_API.java INFO 读出数据：-128
+ 11:16:53 Case_02_Bytebuffer_API.java INFO 读出数据：-127
+ 11:17:39 Case_02_Bytebuffer_API.java INFO 读出数据：100
+ 11:17:39 Case_02_Bytebuffer_API.java INFO 读出数据：101
+ 11:17:39 Case_02_Bytebuffer_API.java INFO 读出数据：102
+ 11:17:54 Case_02_Bytebuffer_API.java INFO 读出数据：100
+ 11:17:54 Case_02_Bytebuffer_API.java INFO 读出数据：101
+ 11:17:54 Case_02_Bytebuffer_API.java INFO 读出数据：102
+ 11:19:36 Case_02_Bytebuffer_API.java INFO 读出数据：97
+ 11:19:36 Case_02_Bytebuffer_API.java INFO 读出数据：98
+ 11:19:36 Case_02_Bytebuffer_API.java INFO 读出数据：99
+ 11:19:49 Case_02_Bytebuffer_API.java INFO 读出数据：97
+ 11:19:49 Case_02_Bytebuffer_API.java INFO 读出数据：98
+ 11:19:49 Case_02_Bytebuffer_API.java INFO 读出数据：99
+ 11:21:25 Case_02_Bytebuffer_API.java INFO 读出数据：97
+ 11:21:25 Case_02_Bytebuffer_API.java INFO 标记后读出数据：98
+ 11:21:25 Case_02_Bytebuffer_API.java INFO 标记后读出数据：99
+ 11:22:12 Case_02_Bytebuffer_API.java INFO 读出数据：97
+ 11:22:12 Case_02_Bytebuffer_API.java INFO 标记后读出数据：98
+ 11:22:12 Case_02_Bytebuffer_API.java INFO 标记后读出数据：99
+ 11:22:12 Case_02_Bytebuffer_API.java INFO 重置标记后读出数据：98
+ 11:22:12 Case_02_Bytebuffer_API.java INFO 重置标记后读出数据：99
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 读出数据：97
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 标记后读出数据：98
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 标记后读出数据：99
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 第一次重置标记后读出数据：98
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 第一次重置标记后读出数据：99
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 第二次重置标记后读出数据：98
+ 11:23:00 Case_02_Bytebuffer_API.java INFO 第二次重置标记后读出数据：99
+ 11:27:14 Case_02_Bytebuffer_API.java INFO 你好，China！
+ 11:27:57 Case_02_Bytebuffer_API.java INFO class java.nio.HeapCharBuffer
+ 11:27:57 Case_02_Bytebuffer_API.java INFO 你好，China！
+ 11:40:10 Case_03_ByteBuffer_Halfpackage.java INFO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ 11:40:10 Case_03_ByteBuffer_Halfpackage.java INFO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 11:40:48 Case_03_ByteBuffer_Halfpackage.java INFO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ 11:40:48 Case_03_ByteBuffer_Halfpackage.java INFO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 11:41:27 Case_03_ByteBuffer_Halfpackage.java INFO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ 11:41:27 Case_03_ByteBuffer_Halfpackage.java INFO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 11:41:59 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ 11:41:59 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+ 13:32:09 Case_03_ByteBuffer_Halfpackage.java INFO class java.nio.HeapCharBuffer
+ 13:32:09 Case_03_ByteBuffer_Halfpackage.java INFO      
+ 13:33:39 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：java.nio.HeapByteBuffer[pos=11 lim=1024 cap=1024]
+ 13:33:39 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：java.nio.HeapByteBuffer[pos=12 lim=1024 cap=1024]
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：72
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：101
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：108
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：108
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：111
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：44
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：119
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：111
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：114
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：108
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：100
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：73
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：39
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：109
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：32
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：122
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：104
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：97
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：110
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：103
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：115
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：97
+ 13:35:01 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：110
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：H
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：e
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：l
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：l
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：o
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：,
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：w
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：o
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：r
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：l
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：d
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：I
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：'
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：m
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为： 
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：z
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：h
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：a
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：n
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：g
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：s
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：a
+ 13:35:19 Case_03_ByteBuffer_Halfpackage.java INFO 解析数据为：n
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 读出数据：97
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 标记后读出数据：98
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 标记后读出数据：99
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 第一次重置标记后读出数据：98
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 第一次重置标记后读出数据：99
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 第二次重置标记后读出数据：98
+ 14:05:23 Case_02_Bytebuffer_API.java INFO 第二次重置标记后读出数据：99
+ 15:00:04 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:00:40 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:00:40 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:00:55 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:00:55 Case_01_FileChannel_Base.java INFO 位置为：2
+ 15:02:02 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:02:02 Case_01_FileChannel_Base.java INFO 位置为：2
+ 15:03:04 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:03:04 Case_01_FileChannel_Base.java INFO 位置为：2
+ 15:04:17 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:04:17 Case_01_FileChannel_Base.java INFO 位置为：2
+ 15:04:34 Case_01_FileChannel_Base.java INFO 位置为：0
+ 15:04:34 Case_01_FileChannel_Base.java INFO 位置为：2
+ 15:06:03 Case_01_FileChannel_Base.java INFO 文件大小为：9
