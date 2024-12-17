@@ -61,6 +61,7 @@ public class Server {
                     ByteBuffer buf = ByteBuffer.allocate(20);
                     // 当客户端手动关闭时（SocketChannel.close()）会触发服务端的读， 并且为-1
                     int read = c.read(buf);
+                    System.out.println(String.format("read -> %d", read));
                     if(read == -1) {
                         key.cancel();
                         c.close();

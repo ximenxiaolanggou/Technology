@@ -24,6 +24,8 @@ public class Client {
         Thread.sleep(100);
         buffer.flip();
         client.write(buffer);
+        Thread.sleep(5000);
+        client.close();
         System.in.read();
     }
 }

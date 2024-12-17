@@ -38,6 +38,7 @@ public class Server {
             for (SocketChannel channel : channels) {
                 // 5. 接收客户端发送的数据
                 int read = channel.read(buffer);// 非阻塞，线程仍然会继续运行，如果没有读到数据，read 返回 0
+                System.out.println(String.format("read -> %d", read));
                 if (read > 0) {
                     buffer.flip();
                     ByteBufferUtil.debugRead(buffer);

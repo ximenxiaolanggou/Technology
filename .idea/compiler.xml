@@ -7,7 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="01_Netty" />
+        <module name="02_OSS" />
+        <module name="03_NacosClientSDK" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="02_OSS_ALi" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
