@@ -24,7 +24,6 @@ public class Case_02_RegisterInstance {
     public static void main(String[] args) throws NacosException, IOException {
 
 
-
         Properties properties = new Properties();
         // 指定Nacos-Server的地址
         properties.setProperty(PropertyKeyConst.SERVER_ADDR, HOST);

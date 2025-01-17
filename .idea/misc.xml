@@ -9,7 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/02_OSS_ALi/pom.xml" />
+        <option value="$PROJECT_DIR$/04_ReactiveStreams/pom.xml" />
       </set>
     </option>
   </component>

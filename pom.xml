@@ -12,6 +12,7 @@
         <module>01_Netty</module>
         <module>02_OSS</module>
         <module>03_NacosClientSDK</module>
+        <module>04_JUC</module>
     </modules>
 
     <properties>

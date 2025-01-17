@@ -9,6 +9,10 @@
     <file url="file://$PROJECT_DIR$/02_OSS_ALi/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03_NacosClientSDK/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03_NacosClientSDK/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_JUC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_JUC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_ReactiveStreams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_ReactiveStreams/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
