@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package start111;
+
+option java_multiple_files = true;
+option java_package = "center.helloworld.protobuf.gen";
+option java_outer_classname = "ContactsProtos";
+
+message PeopleInfo {
+  string name = 1;
+  int32 age = 2;
+}

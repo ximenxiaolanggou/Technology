@@ -13,6 +13,10 @@
         <module>02_OSS</module>
         <module>03_NacosClientSDK</module>
         <module>04_JUC</module>
+        <module>05_Protobuf</module>
+        <module>06_Guava</module>
+        <module>07_Activiti</module>
+        <module>08_SpringSecurity</module>
     </modules>
 
     <properties>

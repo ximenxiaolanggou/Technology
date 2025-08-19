@@ -13,6 +13,18 @@
     <file url="file://$PROJECT_DIR$/04_JUC/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04_ReactiveStreams/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04_ReactiveStreams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_Protobuf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_Protobuf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_Guava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_Guava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Activiti/01_Activiti_Base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Activiti/01_Activiti_Base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Activiti/02_Activiti_Advanced/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Activiti/02_Activiti_Advanced/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Activiti/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Activiti/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_SpringSecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_SpringSecurity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
