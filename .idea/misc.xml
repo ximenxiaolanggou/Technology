@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/04_ReactiveStreams/pom.xml" />
+        <option value="$PROJECT_DIR$/07_Activiti/pom.xml" />
         <option value="$PROJECT_DIR$/08_SpringSecurity/pom.xml" />
       </set>
     </option>

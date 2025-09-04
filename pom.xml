@@ -15,8 +15,7 @@
         <module>04_JUC</module>
         <module>05_Protobuf</module>
         <module>06_Guava</module>
-        <module>07_Activiti</module>
-        <module>08_SpringSecurity</module>
+        <module>08_Activiti</module>
     </modules>
 
     <properties>

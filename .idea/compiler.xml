@@ -11,14 +11,16 @@
         <module name="05_Protobuf" />
         <module name="02_OSS" />
         <module name="03_NacosClientSDK" />
+        <module name="08_Activiti" />
         <module name="04_JUC" />
-        <module name="01_Activiti_Base" />
-        <module name="02_Activiti_Advanced" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
+      <module name="01_Activiti_Base" target="17" />
+      <module name="02_Activiti_Advanced" target="17" />
       <module name="02_OSS_ALi" target="1.8" />
       <module name="04_ReactiveStreams" target="9" />
+      <module name="07_Activiti" target="17" />
       <module name="08_SpringSecurity" target="1.8" />
     </bytecodeTargetLevel>
   </component>
